@@ -7,7 +7,7 @@
 ## General information:
 - File name: scraper.py
 - Api source: https://imdb-api.com/en/API/BoxOfficeAllTime/k_pv17fc8j
-- Program needed to run the script: python
+- Program needed to run the script: python, terminal
 - This script is also runnable from the command line (terminal)
 
 
