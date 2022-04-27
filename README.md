@@ -23,21 +23,21 @@
 
 2. Then, the user needs to activate python program and identify the correct file path where the script is saved on their electronic tablet. The first command line input, "scraper.py" will print out the entire dataset extrated from the Api source. 
 
-- Input format: python + file path + scraper.py
-- one example would be: python /Users/Naomi/Desktop/scraper.py
-- expected results: the complete scraped dataset as rows of data
+  - Input format: python + file path + scraper.py
+  - one example would be: python /Users/Naomi/Desktop/scraper.py
+  - expected results: the complete scraped dataset as rows of data
 
 3. Next, a user can use the second command line "--scrape N" to print the first N entries of data from the scraped dataset. (premise: N is a integer number). 
 
-- Input format: python + file path + scraper.py --scrape N
-- one example would be: python /Users/Naomi/Desktop/scraper.py --scrape 3; In this case, 3 entries of data will be printed.
-- expected results: N rows of data from the scraped dataset will be printed. (if N is bigger than the total number of rows, only partial of the dataset will printed. For example 10 rows of data)
+  - Input format: python + file path + scraper.py --scrape N
+  - one example would be: python /Users/Naomi/Desktop/scraper.py --scrape 3; In this case, 3 entries of data will be printed.
+  - expected results: N rows of data from the scraped dataset will be printed. (if N is bigger than the total number of rows, only partial of the dataset will printed. For example 10 rows of data)
 
 4. Finally, after the scraping, the user might want to save the scraped dataset. The last command line is "--static"，and it will help save the complete scraped dataset from the Api source into a .csv file passed as input. 
 
-- Input format: python + file path + scraper.py --static + intended file path + name.csv
-- one example would be: python /Users/Naomi/Desktop/scraper.py --static /Users/Naomi/Desktop/api-scraped.csv 
-- expected results: the .csv file will appear in the folder chosen by the user
+  - Input format: python + file path + scraper.py --static + intended file path + name.csv
+  - one example would be: python /Users/Naomi/Desktop/scraper.py --static /Users/Naomi/Desktop/api-scraped.csv 
+  - expected results: the .csv file will appear in the folder chosen by the user
 
 
 
