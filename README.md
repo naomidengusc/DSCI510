@@ -19,9 +19,9 @@
 
 ## Instructions:
 
-1. First of all, the users need to turn on terminal
+1. First of all, the user needs to turn on terminal
 
-2. Then, the user need to activate python program and identify the correct path where the script is saved on their electronic tablet. The first command line input, "scraper.py" will print out the entire dataset extrated from the Api source. 
+2. Then, the user needs to activate python program and identify the correct file path where the script is saved on their electronic tablet. The first command line input, "scraper.py" will print out the entire dataset extrated from the Api source. 
 
 - Input format: python + file path + scraper.py
 - one example would be: python /Users/Naomi/Desktop/scraper.py
