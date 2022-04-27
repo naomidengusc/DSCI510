@@ -45,7 +45,7 @@
 
 1. The "+" sign in the "Input format" mentioned above is not included in the command line code. The complete command line should always be composed of "python" followed by "file path" (e.g./Users/Naomi/Desktop) and then followed by "/scraper.py". The inputs themselves follows "/scraper.py" and is connected by " --" (There's no addition space after " --". e.g. " --scrape 3" " --static")
 
-2. The examples above are applied succeccfully on the contributer's tablet and the users' paths might vary.
+2. The examples above are applied succeccfully on the contributer's tablet and the users' file paths might vary.
 
 
 
