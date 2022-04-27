@@ -1,6 +1,6 @@
 # DSCI510 Project Part 2
 ### The script is the python script designed to extract data from the Api source.
-/ 
+
 
 
 ## General information:
