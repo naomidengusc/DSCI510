@@ -17,7 +17,7 @@
 
 
 
-## Instructions:
+## Instructions and Explanations:
 
 1. First of all, the user needs to turn on terminal
 
