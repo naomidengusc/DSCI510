@@ -13,7 +13,7 @@
 
 
 ## Function:
-- This particular script contains codes that scrape the movies that are "Best Box Office of All Time" from IMdb Api database. The script is be runnable from the command line with three different inputs: 
+- This particular script contains codes that scrape the movies that are "Best Box Office of All Time" from IMDb Api database (https://imdb-api.com/). The script is be runnable from the command line with three different inputs: 
 
 
 
